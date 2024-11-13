@@ -1,6 +1,6 @@
 [      
-  {"name": "ObeliskBTC", "logoUrl": "https://github.com/seancheen/product_list/blob/main/logo/obeliskbtc.png?raw=true", "contractAddress": "0x", "rewardTokens": "XSAT + CORE + Lon Points", "apy": 1.2},
-  {"name": "sDAI", "logoUrl": "https://github.com/seancheen/product_list/blob/main/logo/sdai.png?raw=true", "contractAddress": "0x", "rewardTokens": "XSAT + sDAI", "apy": 1.2},
-  {"name": "Babylon", "logoUrl": "https://github.com/seancheen/product_list/blob/main/logo/babylon.png?raw=true", "contractAddress": "0x", "rewardTokens": "XSAT + BBN", "apy": 1.2},
-  {"name": "Pell Network", "logoUrl": "https://github.com/seancheen/product_list/blob/main/logo/pell-network.png?raw=true", "contractAddress": "0x", "rewardTokens": "XSAT + Pell Points" "apy": 1.2}
+  {"name": "ObeliskBTC", "logoUrl": "https://github.com/seancheen/product_list/blob/main/logo/obeliskbtc.png?raw=true", "contractAddress": "0x", "rewardTokens": "XSAT + CORE + Lon Points", "apy": "120% XSAT + 5% CORE + Points"},
+  {"name": "sDAI", "logoUrl": "https://github.com/seancheen/product_list/blob/main/logo/sdai.png?raw=true", "contractAddress": "0x", "rewardTokens": "XSAT + sDAI", "apy": "120% XSAT + 2% sDAI"},
+  {"name": "Babylon", "logoUrl": "https://github.com/seancheen/product_list/blob/main/logo/babylon.png?raw=true", "contractAddress": "0x", "rewardTokens": "XSAT + BBN", "apy": "120% XSAT + 10% BBN"},
+  {"name": "Pell Network", "logoUrl": "https://github.com/seancheen/product_list/blob/main/logo/pell-network.png?raw=true", "contractAddress": "0x", "rewardTokens": "XSAT + Pell Points", "apy": "120% XSAT + Points"}
 ]
